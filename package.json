@@ -182,7 +182,7 @@
     "abstract-logging": "^2.0.0",
     "avvio": "^7.1.2",
     "fast-content-type-parse": "^1.0.0",
-    "fast-json-stringify": "^2.5.2",
+    "fast-json-stringify": "^6.1.1",
     "find-my-way": "^4.5.0",
     "flatstr": "^1.0.12",
     "light-my-request": "^4.2.0",
