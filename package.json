@@ -128,7 +128,7 @@
     "@types/node": "^16.0.0",
     "@types/pino": "^6.0.1",
     "@typescript-eslint/eslint-plugin": "^5.21.0",
-    "@typescript-eslint/parser": "^5.21.0",
+    "@typescript-eslint/parser": "^8.46.4",
     "ajv": "^6.0.0",
     "ajv-errors": "^1.0.1",
     "ajv-formats": "^2.1.1",
